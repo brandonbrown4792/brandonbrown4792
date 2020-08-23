@@ -6,7 +6,7 @@ I am an electrical engineer turned full stack software developer with strengths 
 
 I have currently learning Python and its MVC framework Django and have been having a blast.💥 With my current expertise in Ruby on Rails, I wanted to learn a more widely used framework, so bring on the learning! 👊📕
 
-[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonbrown4792)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonbrown4792&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbrown4792&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
           
