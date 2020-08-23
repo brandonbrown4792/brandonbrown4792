@@ -1,4 +1,4 @@
-![](Funny\ Dog\ Greeting.png)
+![](Greeting.png)
 
 I am an electrical engineer turned full stack software developer with strengths in Ruby on Rails, JavaScript, React, Redux, Git, SQL, HTML, CSS, C#, and .NET. I have a passion for learning new technologies, solving complex problems, and collaborating with others.
 
