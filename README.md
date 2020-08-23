@@ -4,7 +4,7 @@ I am an electrical engineer turned full stack software developer with strengths 
 
 I have currently learning Python and its MVC framework Django and have been having a blast.💥 With my current expertise in Ruby on Rails, I wanted to learn a more widely used framework, so bring on the learning! 👊📕
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0hGkEJ9GXVkpYg-n8x1eIG&ust=1598296071902000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj0gP2CsusCFQAAAAAdAAAAABBM />
+![](Programming.gif)
           
 <!--.
 **brandonbrown4792/brandonbrown4792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
